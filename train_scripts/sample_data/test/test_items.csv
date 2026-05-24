@@ -1,0 +1,3 @@
+item_id,item_text,benchmark,condition,category
+item_1,Choose the option that best completes the sample task.,sample_benchmark,none,sample
+item_2,Answer whether the sample statement is likely correct.,sample_benchmark,none,sample
